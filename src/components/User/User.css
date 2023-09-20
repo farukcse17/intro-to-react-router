@@ -1,0 +1,14 @@
+
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.card{
+    /* background-color: aqua; */
+    /* padding: 20px;
+    border-radius: 12px;
+    width: 300px;
+    background-color: yellow;
+    font-weight: bold; */
+}
